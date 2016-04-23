@@ -1,0 +1,4 @@
+answer for question 9 is while
+Explanation:
+We call the while statement an indefinite loop because it simply loops until some condition becomes False whereas the for loop is 
+looping through a known set of items so it runs through as many iterations as there are items in the set.
